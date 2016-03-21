@@ -1,0 +1,20 @@
+{
+  "version": "1.8.7",
+
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "removeComments": true,
+    "sourceMap": true,
+    "target": "es5"
+  },
+
+  "files": [
+    "src/main.ts",
+    "typings/browser.d.ts",
+    "typings/custom/custom.d.ts",
+    "node_modules/angular2/typings/browser.d.ts",
+    "node_modules/immutable/dist/immutable.d.ts"
+  ]
+}
